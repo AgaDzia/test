@@ -1,2 +1,2 @@
 #Some details...
-#Soem more demo details.
+#Some more demo details.
